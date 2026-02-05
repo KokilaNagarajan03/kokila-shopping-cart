@@ -27,3 +27,15 @@ A simple shopping cart web application built using **PHP and MySQL**, inspired b
 ## 👩‍💻 Author
 **Kokila Nagarajan**  
 GitHub: https://github.com/KokilaNagarajan03
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Cart Page
+![Cart Page](screenshots/cart.png)
+
+### Checkout Page
+![Checkout Page](screenshots/checkout.png)
+
